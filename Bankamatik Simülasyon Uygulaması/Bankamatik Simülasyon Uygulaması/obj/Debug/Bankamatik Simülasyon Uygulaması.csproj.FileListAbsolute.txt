@@ -1,0 +1,26 @@
+C:\Users\profe\Desktop\Visual Projeler\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\bin\Debug\Bankamatik Simülasyon Uygulaması.exe.config
+C:\Users\profe\Desktop\Visual Projeler\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\bin\Debug\Bankamatik Simülasyon Uygulaması.exe
+C:\Users\profe\Desktop\Visual Projeler\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\bin\Debug\Bankamatik Simülasyon Uygulaması.pdb
+C:\Users\profe\Desktop\Visual Projeler\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik Simülasyon Uygulaması.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Visual Projeler\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik_Simülasyon_Uygulaması.Form1.resources
+C:\Users\profe\Desktop\Visual Projeler\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik_Simülasyon_Uygulaması.Properties.Resources.resources
+C:\Users\profe\Desktop\Visual Projeler\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik Simülasyon Uygulaması.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Visual Projeler\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik Simülasyon Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Visual Projeler\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik Simülasyon Uygulaması.exe
+C:\Users\profe\Desktop\Visual Projeler\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik Simülasyon Uygulaması.pdb
+C:\Users\profe\Desktop\Visual Projeler\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik_Simülasyon_Uygulaması.Frm2.resources
+C:\Users\profe\Desktop\Visual Projeler\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik_Simülasyon_Uygulaması.FrmKayıt.resources
+C:\Users\profe\Desktop\Visual Projeler\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik_Simülasyon_Uygulaması.FrmHareket.resources
+C:\Users\profe\Desktop\Visual Projects\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\bin\Debug\Bankamatik Simülasyon Uygulaması.exe.config
+C:\Users\profe\Desktop\Visual Projects\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\bin\Debug\Bankamatik Simülasyon Uygulaması.exe
+C:\Users\profe\Desktop\Visual Projects\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\bin\Debug\Bankamatik Simülasyon Uygulaması.pdb
+C:\Users\profe\Desktop\Visual Projects\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik Simülasyon Uygulaması.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Visual Projects\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik_Simülasyon_Uygulaması.Form1.resources
+C:\Users\profe\Desktop\Visual Projects\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik_Simülasyon_Uygulaması.Frm2.resources
+C:\Users\profe\Desktop\Visual Projects\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik_Simülasyon_Uygulaması.FrmHareket.resources
+C:\Users\profe\Desktop\Visual Projects\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik_Simülasyon_Uygulaması.FrmKayıt.resources
+C:\Users\profe\Desktop\Visual Projects\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik_Simülasyon_Uygulaması.Properties.Resources.resources
+C:\Users\profe\Desktop\Visual Projects\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik Simülasyon Uygulaması.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Visual Projects\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik Simülasyon Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Visual Projects\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik Simülasyon Uygulaması.exe
+C:\Users\profe\Desktop\Visual Projects\Bankamatik Simülasyon Uygulaması\Bankamatik Simülasyon Uygulaması\obj\Debug\Bankamatik Simülasyon Uygulaması.pdb
